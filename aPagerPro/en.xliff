@@ -105,7 +105,7 @@
         <note>Class = "UIViewController"; title = "Alarmdetails"; ObjectID = "Ah7-4n-0Wa";</note>
       </trans-unit>
       <trans-unit id="Arf-lh-rcO.text">
-        <source>Entwicklermenü</source>
+        <source>Developer menu</source>
         <note>Class = "UILabel"; text = "Entwicklermenü"; ObjectID = "Arf-lh-rcO";</note>
       </trans-unit>
       <trans-unit id="B1t-Vk-nrn.text">
