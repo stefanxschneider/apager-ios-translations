@@ -1,5 +1,4 @@
-# apager-ios-translations
-Translations for aPager iOS
+# Repository for translations of the iOS App aPager Pro
 
 Now we empower the community to create their own translations for our app.
 From the community for the community!
