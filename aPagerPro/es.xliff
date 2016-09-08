@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file datatype="plaintext" original="aPagerNG/Base.lproj/LaunchScreen.xib" source-language="de" target-language="en">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="5mL-fp-Ozy.text">
+        <source>Copyright (c) 2016 Alamos GmbH.  All rights reserved.</source>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Copyright (c) 2016 Alamos GmbH.  All rights reserved.&quot;; ObjectID = &quot;5mL-fp-Ozy&quot;;</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>aPagerPro</source>
+        <note>Class = &quot;UILabel&quot;; text = &quot;aPagerPro&quot;; ObjectID = &quot;kId-c2-rCX&quot;;</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="aPagerNG/Base.lproj/Main.storyboard" source-language="de" target-language="en">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="1Iw-bq-K3I.text">
+        <source>Rückmeldefunktion</source>
+        <target>Feedback Function</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Rückmeldefunktion&quot;; ObjectID = &quot;1Iw-bq-K3I&quot;;</note>
+      </trans-unit>
+      <trans-unit id="1th-VV-LQd.headerTitle">
+        <source>Lizenz</source>
+        <target>License</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Lizenz&quot;; ObjectID = &quot;1th-VV-LQd&quot;;</note>
+      </trans-unit>
+      <trans-unit id="1tw-3W-VUg.title">
+        <source>Alarmliste</source>
+        <target>Alert List</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Alarmliste&quot;; ObjectID = &quot;1tw-3W-VUg&quot;;</note>
+      </trans-unit>
+      <trans-unit id="4OC-nj-qg6.text">
+        <source>API-Schlüssel</source>
+        <target>API Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;API-Schlüssel&quot;; ObjectID = &quot;4OC-nj-qg6&quot;;</note>
+      </trans-unit>
+      <trans-unit id="4dX-4Y-EUo.normalTitle">
+        <source>  Speichern</source>
+        <target>  Save</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;  Speichern&quot;; ObjectID = &quot;4dX-4Y-EUo&quot;;</note>
+      </trans-unit>
+      <trans-unit id="4hM-xo-iBc.text">
+        <source>Wasserkarte API</source>
+        <target>Wasserkarte API</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Wasserkarte API&quot;; ObjectID = &quot;4hM-xo-iBc&quot;;</note>
+      </trans-unit>
+      <trans-unit id="5yf-tL-Vuz.normalTitle">
+        <source>Text</source>
+        <target>Text</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Text&quot;; ObjectID = &quot;5yf-tL-Vuz&quot;;</note>
+      </trans-unit>
+      <trans-unit id="6Ow-Rh-BFA.text">
+        <source>?.?</source>
+        <target>?.?</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;?.?&quot;; ObjectID = &quot;6Ow-Rh-BFA&quot;;</note>
+      </trans-unit>
+      <trans-unit id="6Ze-8k-ynf.text">
+        <source>Push Alarmierung</source>
+        <target>Push Alert</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Push Alarmierung&quot;; ObjectID = &quot;6Ze-8k-ynf&quot;;</note>
+      </trans-unit>
+      <trans-unit id="6Zw-5y-7k7.text">
+        <source>Jetzt registrieren</source>
+        <target>Register now</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Jetzt registrieren&quot;; ObjectID = &quot;6Zw-5y-7k7&quot;;</note>
+      </trans-unit>
+      <trans-unit id="7Pd-Gv-7i7.headerTitle">
+        <source>Onlineservices</source>
+        <target>Online services</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Onlineservices&quot;; ObjectID = &quot;7Pd-Gv-7i7&quot;;</note>
+      </trans-unit>
+      <trans-unit id="8Bg-4C-jfS.segmentTitles[0]">
+        <source>Server</source>
+        <target>Server</target>
+        <note>Class = &quot;UISegmentedControl&quot;; 8Bg-4C-jfS.segmentTitles[0] = &quot;Server&quot;; ObjectID = &quot;8Bg-4C-jfS&quot;;</note>
+      </trans-unit>
+      <trans-unit id="8Bg-4C-jfS.segmentTitles[1]">
+        <source>Client</source>
+        <target>Client</target>
+        <note>Class = &quot;UISegmentedControl&quot;; 8Bg-4C-jfS.segmentTitles[1] = &quot;Client&quot;; ObjectID = &quot;8Bg-4C-jfS&quot;;</note>
+      </trans-unit>
+      <trans-unit id="8hh-TM-kNQ.text">
+        <source>Vibration</source>
+        <target>Vibration</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Vibration&quot;; ObjectID = &quot;8hh-TM-kNQ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="9CR-8K-bgX.text">
+        <source>bitte registrieren</source>
+        <target>Please Register</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;bitte registrieren&quot;; ObjectID = &quot;9CR-8K-bgX&quot;;</note>
+      </trans-unit>
+      <trans-unit id="16e-mb-a4z.normalTitle">
+        <source>Navigation starten</source>
+        <target>Start navigation</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Navigation starten&quot;; ObjectID = &quot;16e-mb-a4z&quot;;</note>
+      </trans-unit>
+      <trans-unit id="59W-gI-ddG.normalTitle">
+        <source>Nein</source>
+        <target>Decline</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Nein&quot;; ObjectID = &quot;59W-gI-ddG&quot;;</note>
+      </trans-unit>
+      <trans-unit id="77P-FM-7Qc.text">
+        <source>Liste: Subject statt Keyword</source>
+        <target>List: Subject instead of Keyword</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Liste: Subject statt Keyword&quot;; ObjectID = &quot;77P-FM-7Qc&quot;;</note>
+      </trans-unit>
+      <trans-unit id="86i-5a-qHf.text">
+        <source>Einheit</source>
+        <target>Unit</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Einheit&quot;; ObjectID = &quot;86i-5a-qHf&quot;;</note>
+      </trans-unit>
+      <trans-unit id="APw-dI-WlI.normalTitle">
+        <source>  Senden</source>
+        <target>  Send</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;  Senden&quot;; ObjectID = &quot;APw-dI-WlI&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Ah7-4n-0Wa.title">
+        <source>Alarmdetails</source>
+        <target>Alert Details</target>
+        <note>Class = &quot;UIViewController&quot;; title = &quot;Alarmdetails&quot;; ObjectID = &quot;Ah7-4n-0Wa&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Arf-lh-rcO.text">
+        <source>Entwicklermenü</source>
+        <target>Developer Menu</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Entwicklermenü&quot;; ObjectID = &quot;Arf-lh-rcO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="B1t-Vk-nrn.text">
+        <source>Verschlüsselung</source>
+        <target>Encryption</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Verschlüsselung&quot;; ObjectID = &quot;B1t-Vk-nrn&quot;;</note>
+      </trans-unit>
+      <trans-unit id="B9N-QI-bsc.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Item&quot;; ObjectID = &quot;B9N-QI-bsc&quot;;</note>
+      </trans-unit>
+      <trans-unit id="BCP-fn-ZYr.text">
+        <source>Benutzername</source>
+        <target>Username</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Benutzername&quot;; ObjectID = &quot;BCP-fn-ZYr&quot;;</note>
+      </trans-unit>
+      <trans-unit id="BJZ-1c-aw1.placeholder">
+        <source>Passwort</source>
+        <target>Password</target>
+        <note>Class = &quot;UITextField&quot;; placeholder = &quot;Passwort&quot;; ObjectID = &quot;BJZ-1c-aw1&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Bch-rF-GZZ.text">
+        <source>Verfügbar</source>
+        <target>Available</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Verfügbar&quot;; ObjectID = &quot;Bch-rF-GZZ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="CNa-PU-uhs.text">
+        <source>Navigation: GMaps statt AppleMaps</source>
+        <target>Navi: GMaps instead of AppleMaps</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Navigation: GMaps statt AppleMaps&quot;; ObjectID = &quot;CNa-PU-uhs&quot;;</note>
+      </trans-unit>
+      <trans-unit id="CNf-Zu-baW.text">
+        <source>keine ID eingetragen</source>
+        <target>no ID entered</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;keine ID eingetragen&quot;; ObjectID = &quot;CNf-Zu-baW&quot;;</note>
+      </trans-unit>
+      <trans-unit id="CWU-MN-tan.normalTitle">
+        <source>Nicht Verfügbar</source>
+        <target>Unavailable</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Nicht Verfügbar&quot;; ObjectID = &quot;CWU-MN-tan&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Coh-P4-WYm.text">
+        <source>Beschreibung</source>
+        <target>Description</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Beschreibung&quot;; ObjectID = &quot;Coh-P4-WYm&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Cpl-M3-ghq.headerTitle">
+        <source>Registrierung</source>
+        <target>Registration</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Registrierung&quot;; ObjectID = &quot;Cpl-M3-ghq&quot;;</note>
+      </trans-unit>
+      <trans-unit id="DZj-Zg-CcU.title">
+        <source>Verfügbarkeit</source>
+        <target>Availability</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Verfügbarkeit&quot;; ObjectID = &quot;DZj-Zg-CcU&quot;;</note>
+      </trans-unit>
+      <trans-unit id="DcO-UZ-Bzb.text">
+        <source>Aktualisierungsintervall</source>
+        <target>Update Interval</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Aktualisierungsintervall&quot;; ObjectID = &quot;DcO-UZ-Bzb&quot;;</note>
+      </trans-unit>
+      <trans-unit id="De3-dQ-1ZS.title">
+        <source>Rückmeldungen</source>
+        <target>Feedback</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Rückmeldungen&quot;; ObjectID = &quot;De3-dQ-1ZS&quot;;</note>
+      </trans-unit>
+      <trans-unit id="EJi-dR-FZk.text">
+        <source>Funktionen</source>
+        <target>Role</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Funktionen&quot;; ObjectID = &quot;EJi-dR-FZk&quot;;</note>
+      </trans-unit>
+      <trans-unit id="FAg-TJ-yGg.accessibilityIdentifier">
+        <source>watermap</source>
+        <target>watermap</target>
+        <note>Class = &quot;UISwitch&quot;; accessibilityIdentifier = &quot;watermap&quot;; ObjectID = &quot;FAg-TJ-yGg&quot;;</note>
+      </trans-unit>
+      <trans-unit id="GFY-8v-0MA.text">
+        <source>Gruppe</source>
+        <target>Group</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Gruppe&quot;; ObjectID = &quot;GFY-8v-0MA&quot;;</note>
+      </trans-unit>
+      <trans-unit id="HY9-P3-8pJ.text">
+        <source>Funktionen</source>
+        <target>Roles</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Funktionen&quot;; ObjectID = &quot;HY9-P3-8pJ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="HpS-lC-aYr.text">
+        <source>Kartenmodus</source>
+        <target>Map Mode</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Kartenmodus&quot;; ObjectID = &quot;HpS-lC-aYr&quot;;</note>
+      </trans-unit>
+      <trans-unit id="IEj-eR-qSR.title">
+        <source>Details</source>
+        <target>Details</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Details&quot;; ObjectID = &quot;IEj-eR-qSR&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Ibq-HK-ko8.text">
+        <source>Mailadresse</source>
+        <target>Mail address</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Mailadresse&quot;; ObjectID = &quot;Ibq-HK-ko8&quot;;</note>
+      </trans-unit>
+      <trans-unit id="K7j-Lr-cGd.text">
+        <source>QR- Scan API-Schlüssel</source>
+        <target>QR- Scan API-Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;QR- Scan API-Schlüssel&quot;; ObjectID = &quot;K7j-Lr-cGd&quot;;</note>
+      </trans-unit>
+      <trans-unit id="KfD-Xp-Azy.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Label&quot;; ObjectID = &quot;KfD-Xp-Azy&quot;;</note>
+      </trans-unit>
+      <trans-unit id="M5b-Mn-qfF.headerTitle">
+        <source>Karten</source>
+        <target>Maps</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Karten&quot;; ObjectID = &quot;M5b-Mn-qfF&quot;;</note>
+      </trans-unit>
+      <trans-unit id="MWc-pe-9bC.segmentTitles[0]">
+        <source>Übersicht</source>
+        <target>Overview</target>
+        <note>Class = &quot;UISegmentedControl&quot;; MWc-pe-9bC.segmentTitles[0] = &quot;Übersicht&quot;; ObjectID = &quot;MWc-pe-9bC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="MWc-pe-9bC.segmentTitles[1]">
+        <source>Diagramme</source>
+        <target>Charts</target>
+        <note>Class = &quot;UISegmentedControl&quot;; MWc-pe-9bC.segmentTitles[1] = &quot;Diagramme&quot;; ObjectID = &quot;MWc-pe-9bC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="MWc-pe-9bC.segmentTitles[2]">
+        <source>Spalten</source>
+        <target>Table</target>
+        <note>Class = &quot;UISegmentedControl&quot;; MWc-pe-9bC.segmentTitles[2] = &quot;Spalten&quot;; ObjectID = &quot;MWc-pe-9bC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="MWc-pe-9bC.segmentTitles[3]">
+        <source>Funktionen</source>
+        <target>Roles</target>
+        <note>Class = &quot;UISegmentedControl&quot;; MWc-pe-9bC.segmentTitles[3] = &quot;Funktionen&quot;; ObjectID = &quot;MWc-pe-9bC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="MrT-Ff-v2z.text">
+        <source>Einheit</source>
+        <target>Unit</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Einheit&quot;; ObjectID = &quot;MrT-Ff-v2z&quot;;</note>
+      </trans-unit>
+      <trans-unit id="NFn-hf-ujY.text">
+        <source>Message</source>
+        <target>Message</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Message&quot;; ObjectID = &quot;NFn-hf-ujY&quot;;</note>
+      </trans-unit>
+      <trans-unit id="NJQ-Dk-N8w.title">
+        <source>Hilfe</source>
+        <target>Help</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Hilfe&quot;; ObjectID = &quot;NJQ-Dk-N8w&quot;;</note>
+      </trans-unit>
+      <trans-unit id="NMJ-BA-hoB.text">
+        <source>Verfügbarkeit</source>
+        <target>Availability</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Verfügbarkeit&quot;; ObjectID = &quot;NMJ-BA-hoB&quot;;</note>
+      </trans-unit>
+      <trans-unit id="OFh-7d-RML.text">
+        <source>Gruppe</source>
+        <target>Group</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Gruppe&quot;; ObjectID = &quot;OFh-7d-RML&quot;;</note>
+      </trans-unit>
+      <trans-unit id="OKr-Mj-exI.text">
+        <source>Rückmeldung</source>
+        <target>Feedback</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Rückmeldung&quot;; ObjectID = &quot;OKr-Mj-exI&quot;;</note>
+      </trans-unit>
+      <trans-unit id="OWm-Bt-bpa.text">
+        <source>FE2 Backend Instanz</source>
+        <target>FE2 Backend Instance</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;FE2 Backend Instanz&quot;; ObjectID = &quot;OWm-Bt-bpa&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Ov9-1M-aHt.text">
+        <source>Schnellantwort</source>
+        <target>Quick Reply</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Schnellantwort&quot;; ObjectID = &quot;Ov9-1M-aHt&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Qss-dZ-WvI.text">
+        <source>Rückmeldung</source>
+        <target>Feedback</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Rückmeldung&quot;; ObjectID = &quot;Qss-dZ-WvI&quot;;</note>
+      </trans-unit>
+      <trans-unit id="R3h-TX-zA8.text">
+        <source>error!</source>
+        <target>Error!</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;error!&quot;; ObjectID = &quot;R3h-TX-zA8&quot;;</note>
+      </trans-unit>
+      <trans-unit id="R9z-xh-e5R.text">
+        <source>FE1 Backend Instanz</source>
+        <target>FE1 Backend Instance</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;FE1 Backend Instanz&quot;; ObjectID = &quot;R9z-xh-e5R&quot;;</note>
+      </trans-unit>
+      <trans-unit id="RCo-dB-ewC.segmentTitles[0]">
+        <source>Karte</source>
+        <target>Map</target>
+        <note>Class = &quot;UISegmentedControl&quot;; RCo-dB-ewC.segmentTitles[0] = &quot;Karte&quot;; ObjectID = &quot;RCo-dB-ewC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="RCo-dB-ewC.segmentTitles[1]">
+        <source>Satellit</source>
+        <target>Satellite</target>
+        <note>Class = &quot;UISegmentedControl&quot;; RCo-dB-ewC.segmentTitles[1] = &quot;Satellit&quot;; ObjectID = &quot;RCo-dB-ewC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="RCo-dB-ewC.segmentTitles[2]">
+        <source>Hybrid</source>
+        <target>Hybrid</target>
+        <note>Class = &quot;UISegmentedControl&quot;; RCo-dB-ewC.segmentTitles[2] = &quot;Hybrid&quot;; ObjectID = &quot;RCo-dB-ewC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="RRu-e3-aRe.title">
+        <source>Übersicht</source>
+        <target>Overview</target>
+        <note>Class = &quot;UINavigationItem&quot;; title = &quot;Übersicht&quot;; ObjectID = &quot;RRu-e3-aRe&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Rwh-Wl-bRn.text">
+        <source>Lizenz kaufen / verlängern</source>
+        <target>Buy / extend license</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Lizenz kaufen / verlängern&quot;; ObjectID = &quot;Rwh-Wl-bRn&quot;;</note>
+      </trans-unit>
+      <trans-unit id="S5C-bl-V9R.normalTitle">
+        <source>  Hinzufügen</source>
+        <target>Add</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;  Hinzufügen&quot;; ObjectID = &quot;S5C-bl-V9R&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Sez-Ah-Vd2.accessibilityIdentifier">
+        <source>email</source>
+        <target>email</target>
+        <note>Class = &quot;UITextField&quot;; accessibilityIdentifier = &quot;email&quot;; ObjectID = &quot;Sez-Ah-Vd2&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Sfv-cm-Ciu.text">
+        <source>Passwörter bearbeiten</source>
+        <target>Edit Passwords</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Passwörter bearbeiten&quot;; ObjectID = &quot;Sfv-cm-Ciu&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Sj6-jG-eG5.text">
+        <source>Funktionen</source>
+        <target>Roles</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Funktionen&quot;; ObjectID = &quot;Sj6-jG-eG5&quot;;</note>
+      </trans-unit>
+      <trans-unit id="UHH-Wv-NKQ.placeholder">
+        <source>default</source>
+        <target>Default</target>
+        <note>Class = &quot;UITextField&quot;; placeholder = &quot;default&quot;; ObjectID = &quot;UHH-Wv-NKQ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Ux5-9n-54z.text">
+        <source>24.12.2014 - 17:51</source>
+        <target>24.12.2014 - 17:51</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;24.12.2014 - 17:51&quot;; ObjectID = &quot;Ux5-9n-54z&quot;;</note>
+      </trans-unit>
+      <trans-unit id="VQi-QP-98M.headerTitle">
+        <source>Klingeltöne</source>
+        <target>Ring Tones</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Klingeltöne&quot;; ObjectID = &quot;VQi-QP-98M&quot;;</note>
+      </trans-unit>
+      <trans-unit id="W1f-qG-sD5.headerTitle">
+        <source>Sonstiges</source>
+        <target>Misc</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Sonstiges&quot;; ObjectID = &quot;W1f-qG-sD5&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Whc-uk-4x5.text">
+        <source>Einheiten</source>
+        <target>Units</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Einheiten&quot;; ObjectID = &quot;Whc-uk-4x5&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Xsw-1Q-jUU.text">
+        <source>Einheitenkonfiguration</source>
+        <target>Unit Configuration</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Einheitenkonfiguration&quot;; ObjectID = &quot;Xsw-1Q-jUU&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Y7m-Qj-EQp.segmentTitles[0]">
+        <source>Karte</source>
+        <target>Map</target>
+        <note>Class = &quot;UISegmentedControl&quot;; Y7m-Qj-EQp.segmentTitles[0] = &quot;Karte&quot;; ObjectID = &quot;Y7m-Qj-EQp&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Y7m-Qj-EQp.segmentTitles[1]">
+        <source>Satellit</source>
+        <target>Satellite</target>
+        <note>Class = &quot;UISegmentedControl&quot;; Y7m-Qj-EQp.segmentTitles[1] = &quot;Satellit&quot;; ObjectID = &quot;Y7m-Qj-EQp&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Y7m-Qj-EQp.segmentTitles[2]">
+        <source>Hybrid</source>
+        <target>Hybrid</target>
+        <note>Class = &quot;UISegmentedControl&quot;; Y7m-Qj-EQp.segmentTitles[2] = &quot;Hybrid&quot;; ObjectID = &quot;Y7m-Qj-EQp&quot;;</note>
+      </trans-unit>
+      <trans-unit id="Z5a-Ay-a6S.text">
+        <source>API-Schlüssel</source>
+        <target>API Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;API-Schlüssel&quot;; ObjectID = &quot;Z5a-Ay-a6S&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZBe-d6-gbO.segmentTitles[0]">
+        <source>Debug</source>
+        <target>Debug</target>
+        <note>Class = &quot;UISegmentedControl&quot;; ZBe-d6-gbO.segmentTitles[0] = &quot;Debug&quot;; ObjectID = &quot;ZBe-d6-gbO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZBe-d6-gbO.segmentTitles[1]">
+        <source>Info</source>
+        <target>Info</target>
+        <note>Class = &quot;UISegmentedControl&quot;; ZBe-d6-gbO.segmentTitles[1] = &quot;Info&quot;; ObjectID = &quot;ZBe-d6-gbO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZBe-d6-gbO.segmentTitles[2]">
+        <source>Warning</source>
+        <target>Warning</target>
+        <note>Class = &quot;UISegmentedControl&quot;; ZBe-d6-gbO.segmentTitles[2] = &quot;Warning&quot;; ObjectID = &quot;ZBe-d6-gbO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZBe-d6-gbO.segmentTitles[3]">
+        <source>Error</source>
+        <target>Error</target>
+        <note>Class = &quot;UISegmentedControl&quot;; ZBe-d6-gbO.segmentTitles[3] = &quot;Error&quot;; ObjectID = &quot;ZBe-d6-gbO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZHy-IV-EeJ.title">
+        <source>Einstellungen</source>
+        <target>Settings</target>
+        <note>Class = &quot;UITableViewController&quot;; title = &quot;Einstellungen&quot;; ObjectID = &quot;ZHy-IV-EeJ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZfB-v7-z8o.accessibilityIdentifier">
+        <source>navigation</source>
+        <target>Navigation</target>
+        <note>Class = &quot;UISwitch&quot;; accessibilityIdentifier = &quot;navigation&quot;; ObjectID = &quot;ZfB-v7-z8o&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ZfV-mq-bqP.text">
+        <source>Klingelton</source>
+        <target>Ring Tone</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Klingelton&quot;; ObjectID = &quot;ZfV-mq-bqP&quot;;</note>
+      </trans-unit>
+      <trans-unit id="aIR-iv-l4C.placeholder">
+        <source>default</source>
+        <target>Default</target>
+        <note>Class = &quot;UITextField&quot;; placeholder = &quot;default&quot;; ObjectID = &quot;aIR-iv-l4C&quot;;</note>
+      </trans-unit>
+      <trans-unit id="aVk-g2-Y8O.text">
+        <source>FFW Musterstadt</source>
+        <target>FFW Musterstadt</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;FFW Musterstadt&quot;; ObjectID = &quot;aVk-g2-Y8O&quot;;</note>
+      </trans-unit>
+      <trans-unit id="b88-jd-OZc.text">
+        <source>Freitext Antwort</source>
+        <target>Freetext for Quick Reply</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Freitext Antwort&quot;; ObjectID = &quot;b88-jd-OZc&quot;;</note>
+      </trans-unit>
+      <trans-unit id="bCE-b4-O4B.normalTitle">
+        <source>Bedingt Verfügbar</source>
+        <target>Partly Available</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Bedingt Verfügbar&quot;; ObjectID = &quot;bCE-b4-O4B&quot;;</note>
+      </trans-unit>
+      <trans-unit id="bK2-pF-UZB.title">
+        <source>Einstellungen</source>
+        <target>Settings</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Einstellungen&quot;; ObjectID = &quot;bK2-pF-UZB&quot;;</note>
+      </trans-unit>
+      <trans-unit id="cZJ-5J-GUr.normalTitle">
+        <source>Verfügbar</source>
+        <target>Available</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Verfügbar&quot;; ObjectID = &quot;cZJ-5J-GUr&quot;;</note>
+      </trans-unit>
+      <trans-unit id="dsT-tI-eYo.text">
+        <source>Loglevel</source>
+        <target>Log Level</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Loglevel&quot;; ObjectID = &quot;dsT-tI-eYo&quot;;</note>
+      </trans-unit>
+      <trans-unit id="eWx-hI-434.normalTitle">
+        <source>Komme</source>
+        <target>Accept</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Komme&quot;; ObjectID = &quot;eWx-hI-434&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ecH-nK-M8A.text">
+        <source>Rückmeldeübersicht</source>
+        <target>Feedback Overview</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Rückmeldeübersicht&quot;; ObjectID = &quot;ecH-nK-M8A&quot;;</note>
+      </trans-unit>
+      <trans-unit id="etf-UX-0A6.text">
+        <source>API-Schlüssel</source>
+        <target>API-Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;API-Schlüssel&quot;; ObjectID = &quot;etf-UX-0A6&quot;;</note>
+      </trans-unit>
+      <trans-unit id="fag-gF-4Nt.normalTitle">
+        <source>Speichern</source>
+        <target>Save</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Speichern&quot;; ObjectID = &quot;fag-gF-4Nt&quot;;</note>
+      </trans-unit>
+      <trans-unit id="g4l-bF-arl.title">
+        <source>Karte</source>
+        <target>Map</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Karte&quot;; ObjectID = &quot;g4l-bF-arl&quot;;</note>
+      </trans-unit>
+      <trans-unit id="gUY-Q6-s8v.accessibilityIdentifier">
+        <source>navigation</source>
+        <target>Navigation</target>
+        <note>Class = &quot;UISwitch&quot;; accessibilityIdentifier = &quot;navigation&quot;; ObjectID = &quot;gUY-Q6-s8v&quot;;</note>
+      </trans-unit>
+      <trans-unit id="gdA-Kd-Xkh.accessibilityIdentifier">
+        <source>alarmDetailCell</source>
+        <target>alarmDetailCell</target>
+        <note>Class = &quot;UITableViewCell&quot;; accessibilityIdentifier = &quot;alarmDetailCell&quot;; ObjectID = &quot;gdA-Kd-Xkh&quot;;</note>
+      </trans-unit>
+      <trans-unit id="h5E-g4-oLw.text">
+        <source>Verfügbarkeit</source>
+        <target>Availability</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Verfügbarkeit&quot;; ObjectID = &quot;h5E-g4-oLw&quot;;</note>
+      </trans-unit>
+      <trans-unit id="h6H-wg-Wr9.text">
+        <source>Editiere Freitext Nachrichten</source>
+        <target>Edit Freetext Messages</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Editiere Freitext Nachrichten&quot;; ObjectID = &quot;h6H-wg-Wr9&quot;;</note>
+      </trans-unit>
+      <trans-unit id="hYt-7U-VwT.text">
+        <source>QR- Scan ID</source>
+        <target>QR- Scan ID</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;QR- Scan ID&quot;; ObjectID = &quot;hYt-7U-VwT&quot;;</note>
+      </trans-unit>
+      <trans-unit id="hgc-rE-Hdd.text">
+        <source>Anzeigename</source>
+        <target>Display Name</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Anzeigename&quot;; ObjectID = &quot;hgc-rE-Hdd&quot;;</note>
+      </trans-unit>
+      <trans-unit id="hzR-WE-j7l.normalTitle">
+        <source>Abbrechen</source>
+        <target>Cancel</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Abbrechen&quot;; ObjectID = &quot;hzR-WE-j7l&quot;;</note>
+      </trans-unit>
+      <trans-unit id="hzT-KG-9EM.headerTitle">
+        <source>Verschlüsselung</source>
+        <target>Encryption</target>
+        <note>Class = &quot;UITableViewSection&quot;; headerTitle = &quot;Verschlüsselung&quot;; ObjectID = &quot;hzT-KG-9EM&quot;;</note>
+      </trans-unit>
+      <trans-unit id="i9r-Qb-H2F.accessibilityIdentifier">
+        <source>push</source>
+        <target>Push</target>
+        <note>Class = &quot;UISwitch&quot;; accessibilityIdentifier = &quot;push&quot;; ObjectID = &quot;i9r-Qb-H2F&quot;;</note>
+      </trans-unit>
+      <trans-unit id="iCG-Tt-o0g.title">
+        <source>Hilfe</source>
+        <target>Help</target>
+        <note>Class = &quot;UIViewController&quot;; title = &quot;Hilfe&quot;; ObjectID = &quot;iCG-Tt-o0g&quot;;</note>
+      </trans-unit>
+      <trans-unit id="iSv-5E-FEd.title">
+        <source>Verfügbarkeit</source>
+        <target>Availability</target>
+        <note>Class = &quot;UIViewController&quot;; title = &quot;Verfügbarkeit&quot;; ObjectID = &quot;iSv-5E-FEd&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ih8-An-0nr.text">
+        <source>Status</source>
+        <target>Status</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Status&quot;; ObjectID = &quot;ih8-An-0nr&quot;;</note>
+      </trans-unit>
+      <trans-unit id="jCj-5U-6Fo.text">
+        <source>Überblick API Key</source>
+        <target>Overview API Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Überblick API Key&quot;; ObjectID = &quot;jCj-5U-6Fo&quot;;</note>
+      </trans-unit>
+      <trans-unit id="ja0-Iv-7MZ.text">
+        <source>Gruppe</source>
+        <target>Group</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Gruppe&quot;; ObjectID = &quot;ja0-Iv-7MZ&quot;;</note>
+      </trans-unit>
+      <trans-unit id="k6N-hw-VZG.text">
+        <source>Vibration</source>
+        <target>Vibration</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Vibration&quot;; ObjectID = &quot;k6N-hw-VZG&quot;;</note>
+      </trans-unit>
+      <trans-unit id="kKi-oL-ZtT.text">
+        <source>Version</source>
+        <target>Version</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Version&quot;; ObjectID = &quot;kKi-oL-ZtT&quot;;</note>
+      </trans-unit>
+      <trans-unit id="lua-Sf-wqX.accessibilityIdentifier">
+        <source>watermapKey</source>
+        <target>watermapKey</target>
+        <note>Class = &quot;UITextField&quot;; accessibilityIdentifier = &quot;watermapKey&quot;; ObjectID = &quot;lua-Sf-wqX&quot;;</note>
+      </trans-unit>
+      <trans-unit id="lv3-Q7-Qnm.text">
+        <source>Button für direkte Navigation</source>
+        <target>Show Direct Navigation Button</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Button für direkte Navigation&quot;; ObjectID = &quot;lv3-Q7-Qnm&quot;;</note>
+      </trans-unit>
+      <trans-unit id="mBf-rE-Jl2.segmentTitles[0]">
+        <source>FE 1</source>
+        <target>FE 1</target>
+        <note>Class = &quot;UISegmentedControl&quot;; mBf-rE-Jl2.segmentTitles[0] = &quot;FE 1&quot;; ObjectID = &quot;mBf-rE-Jl2&quot;;</note>
+      </trans-unit>
+      <trans-unit id="mBf-rE-Jl2.segmentTitles[1]">
+        <source>FE 2</source>
+        <target>FE 2</target>
+        <note>Class = &quot;UISegmentedControl&quot;; mBf-rE-Jl2.segmentTitles[1] = &quot;FE 2&quot;; ObjectID = &quot;mBf-rE-Jl2&quot;;</note>
+      </trans-unit>
+      <trans-unit id="mBf-rE-Jl2.segmentTitles[2]">
+        <source>Koppeln</source>
+        <target>Link</target>
+        <note>Class = &quot;UISegmentedControl&quot;; mBf-rE-Jl2.segmentTitles[2] = &quot;Koppeln&quot;; ObjectID = &quot;mBf-rE-Jl2&quot;;</note>
+      </trans-unit>
+      <trans-unit id="n1g-mc-egL.normalTitle">
+        <source>Freier Text</source>
+        <target>Freetext</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Freier Text&quot;; ObjectID = &quot;n1g-mc-egL&quot;;</note>
+      </trans-unit>
+      <trans-unit id="nei-aJ-POS.normalTitle">
+        <source>Speichern</source>
+        <target>Save</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Speichern&quot;; ObjectID = &quot;nei-aJ-POS&quot;;</note>
+      </trans-unit>
+      <trans-unit id="oph-5w-bs9.text">
+        <source>Ton</source>
+        <target>Ring Tone</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Ton&quot;; ObjectID = &quot;oph-5w-bs9&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pGg-6v-bdr.title">
+        <source>Master</source>
+        <target>Master</target>
+        <note>Class = &quot;UITableViewController&quot;; title = &quot;Master&quot;; ObjectID = &quot;pGg-6v-bdr&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pO9-58-e5X.segmentTitles[0]">
+        <source>30s</source>
+        <target>30s</target>
+        <note>Class = &quot;UISegmentedControl&quot;; pO9-58-e5X.segmentTitles[0] = &quot;30s&quot;; ObjectID = &quot;pO9-58-e5X&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pO9-58-e5X.segmentTitles[1]">
+        <source>60s</source>
+        <target>60s</target>
+        <note>Class = &quot;UISegmentedControl&quot;; pO9-58-e5X.segmentTitles[1] = &quot;60s&quot;; ObjectID = &quot;pO9-58-e5X&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pO9-58-e5X.segmentTitles[2]">
+        <source>90s</source>
+        <target>90s</target>
+        <note>Class = &quot;UISegmentedControl&quot;; pO9-58-e5X.segmentTitles[2] = &quot;90s&quot;; ObjectID = &quot;pO9-58-e5X&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pXv-91-hK5.segmentTitles[0]">
+        <source>FE1</source>
+        <target>FE1</target>
+        <note>Class = &quot;UISegmentedControl&quot;; pXv-91-hK5.segmentTitles[0] = &quot;FE1&quot;; ObjectID = &quot;pXv-91-hK5&quot;;</note>
+      </trans-unit>
+      <trans-unit id="pXv-91-hK5.segmentTitles[1]">
+        <source>FE2</source>
+        <target>FE2</target>
+        <note>Class = &quot;UISegmentedControl&quot;; pXv-91-hK5.segmentTitles[1] = &quot;FE2&quot;; ObjectID = &quot;pXv-91-hK5&quot;;</note>
+      </trans-unit>
+      <trans-unit id="qQG-ls-c9E.text">
+        <source>aus</source>
+        <target>off</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;aus&quot;; ObjectID = &quot;qQG-ls-c9E&quot;;</note>
+      </trans-unit>
+      <trans-unit id="qcF-8Y-rgV.text">
+        <source>Status prüfen</source>
+        <target>Check Status</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Status prüfen&quot;; ObjectID = &quot;qcF-8Y-rgV&quot;;</note>
+      </trans-unit>
+      <trans-unit id="rS3-R9-Ivy.title">
+        <source>Master</source>
+        <target>Master</target>
+        <note>Class = &quot;UINavigationController&quot;; title = &quot;Master&quot;; ObjectID = &quot;rS3-R9-Ivy&quot;;</note>
+      </trans-unit>
+      <trans-unit id="s2G-yB-HSx.normalTitle">
+        <source>Zurücksetzen</source>
+        <target>Reset</target>
+        <note>Class = &quot;UIButton&quot;; normalTitle = &quot;Zurücksetzen&quot;; ObjectID = &quot;s2G-yB-HSx&quot;;</note>
+      </trans-unit>
+      <trans-unit id="soe-Yo-eMA.title">
+        <source>Übersicht</source>
+        <target>Overview</target>
+        <note>Class = &quot;UITabBarItem&quot;; title = &quot;Übersicht&quot;; ObjectID = &quot;soe-Yo-eMA&quot;;</note>
+      </trans-unit>
+      <trans-unit id="uUN-A8-0gV.text">
+        <source>QR- Scan Überblick API-Schlüssel</source>
+        <target>QR- Scan Overview API-Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;QR- Scan Überblick API-Schlüssel&quot;; ObjectID = &quot;uUN-A8-0gV&quot;;</note>
+      </trans-unit>
+      <trans-unit id="wbn-xs-dGO.text">
+        <source>Benutzername</source>
+        <target>Username</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Benutzername&quot;; ObjectID = &quot;wbn-xs-dGO&quot;;</note>
+      </trans-unit>
+      <trans-unit id="xhH-gt-2Df.text">
+        <source>Fehlerbericht senden</source>
+        <target>Send Error Report</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Fehlerbericht senden&quot;; ObjectID = &quot;xhH-gt-2Df&quot;;</note>
+      </trans-unit>
+      <trans-unit id="yV3-6u-zjz.text">
+        <source>ID Status</source>
+        <target>ID Status</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;ID Status&quot;; ObjectID = &quot;yV3-6u-zjz&quot;;</note>
+      </trans-unit>
+      <trans-unit id="zkU-q1-Tne.text">
+        <source>Verfügbarkeit aktivieren</source>
+        <target>Enable Availability</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Verfügbarkeit aktivieren&quot;; ObjectID = &quot;zkU-q1-Tne&quot;;</note>
+      </trans-unit>
+      <trans-unit id="znn-pn-3YR.placeholder">
+        <source>Einheit</source>
+        <target>Unit</target>
+        <note>Class = &quot;UITextField&quot;; placeholder = &quot;Einheit&quot;; ObjectID = &quot;znn-pn-3YR&quot;;</note>
+      </trans-unit>
+      <trans-unit id="zuL-ie-xhC.text">
+        <source>Letzte Änderungen</source>
+        <target>Changelog</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;Letzte Änderungen&quot;; ObjectID = &quot;zuL-ie-xhC&quot;;</note>
+      </trans-unit>
+      <trans-unit id="zwZ-UQ-KyW.text">
+        <source>QR- Scan Wasserkarte API Key</source>
+        <target>QR- Scan Wasserkarte API Key</target>
+        <note>Class = &quot;UILabel&quot;; text = &quot;QR- Scan Wasserkarte API Key&quot;; ObjectID = &quot;zwZ-UQ-KyW&quot;;</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="aPagerNG/Info.plist" source-language="de" target-language="en">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source><target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0.1</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="aPagerNG/de.lproj/Localizable.strings" source-language="de" target-language="en">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="ACCEPT">
+        <source>Komme</source>
+        <target>Coming</target>
+        <note>Komme</note>
+      </trans-unit>
+      <trans-unit id="ALARM_DATA_ENTITY_0_SECONDS">
+        <source>0 Sekunden</source>
+        <target>0 Seconds</target>
+        <note>0 Seconds</note>
+      </trans-unit>
+      <trans-unit id="ALARM_DATA_ENTITY_X_DAYS">
+        <source>%d Tag(e)</source>
+        <target>%d day(s)</target>
+        <note>%d day(s)</note>
+      </trans-unit>
+      <trans-unit id="ALARM_DATA_ENTITY_X_HOURS">
+        <source>%d Stunde(n)</source>
+        <target>%d Hour(s)</target>
+        <note>%d hour(s)</note>
+      </trans-unit>
+      <trans-unit id="ALARM_DATA_ENTITY_X_MINUTES">
+        <source>%d Minute(n)</source>
+        <target>%d Minute(s)</target>
+        <note>%d minute(s)</note>
+      </trans-unit>
+      <trans-unit id="ALARM_DATA_ENTITY_X_SECONDS">
+        <source>%d Sekunde(n)</source>
+        <target>%d Second(s)</target>
+        <note>%d second(s)</note>
+      </trans-unit>
+      <trans-unit id="AUDIO_PROFILE_NO_MAIL">
+        <source>Für dieses Feature muss eine E-Mailadresse registriert sein. Bitte in den Einstellungen überprüfen.</source>
+        <target>A registered email address is required for this feature. Please check it in the settings.</target>
+        <note>Requires email address</note>
+      </trans-unit>
+      <trans-unit id="AVAILABLE">
+        <source>Verfügbar</source>
+        <target>Available</target>
+        <note>Verfügbar</note>
+      </trans-unit>
+      <trans-unit id="AVAILABLIITY_OVERVIEW_NO_API_KEY">
+        <source>Bitte in den Einstellungen einen API Key für die Verfügbarkeitsübersicht eintragen.</source>
+        <target>Please insert an API Key for the availability overview in the settings.</target>
+        <note>Bitte in den Einstellungen einen API Key für die Verfügbarkeitsübersicht eintragen.</note>
+      </trans-unit>
+      <trans-unit id="CANCEL">
+        <source>Abbrechen</source>
+        <target>Cancel</target>
+        <note>Abbrechen
+   Cancel</note>
+      </trans-unit>
+      <trans-unit id="CAUTION">
+        <source>Achtung!</source>
+        <target>Caution</target>
+        <note>Achtung
+   Achtung!</note>
+      </trans-unit>
+      <trans-unit id="CLOSE">
+        <source>Schließen</source>
+        <target>Close</target>
+        <note>Schließen</note>
+      </trans-unit>
+      <trans-unit id="DATE_AND_TIME">
+        <source>dd.MM.y, H:mm:ss</source><target>dd.MM.y, H:mm:ss</target>
+        <note>dd.MM.y, H:mm:ss</note>
+      </trans-unit>
+      <trans-unit id="DECLINE">
+        <source>Nicht</source>
+        <target>Decline</target>
+        <note>Nicht</note>
+      </trans-unit>
+      <trans-unit id="DELETE">
+        <source>Löschen</source>
+        <target>Delete</target>
+        <note>Löschen</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_COULDNT_FIND_ON_APPLE_MAPS">
+        <source>Die Adresse konnte von Apple Maps nicht gefunden werden. Soll versucht werden die Adresse über Google Maps zu finden?</source>
+        <target>The address could not be found by Apple Maps. Do you want to try it with Google Maps?</target>
+        <note>Die Adresse konnte von Apple Maps nicht gefunden werden. Soll versucht werden die Adresse über Google Maps zu finden?</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_FEEDBACK_SENT">
+        <source>Rückmeldung gesendet</source>
+        <target>Feedback Submitted</target>
+        <note>Rückmeldung gesendet</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_FEEDBACK_SENT_SUCCESSFULLY">
+        <source>Die Rückmeldung wurde erfolgreich übermittelt.</source>
+        <target>Feedback Successfully Submitted.</target>
+        <note>Die Rückmeldung wurde erfolgreich übermittelt.</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_NO_USERNAME_FOR_OS">
+        <source>Sie haben keinen Benutzernamen für FE1 für die Rückmeldung in den Einstellungen hinterlegt.</source>
+        <target>No user name for FE1 feedback found, please insert it in the settings.</target>
+        <note>Sie haben keinen Benutzernamen für FE1 für die Rückmeldung in den Einstellungen hinterlegt.</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_NO_USER_FOR_OS">
+        <source>Sie haben keine Benutzer ID für FE2 für die Rückmeldung in den Einstellungen hinterlegt.</source>
+        <target>No user ID for FE2 feedback found, please insert it in the settings.</target>
+        <note>Sie haben keine Benutzer ID für FE2 für die Rückmeldung in den Einstellungen hinterlegt.</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_NO_VALID_CLIENT_LICENSE">
+        <source>Sie haben keine gültige Client Lizenz, bitte über die Einstellungen kaufen.</source>
+        <target>No valid client license, please buy it in the settings tab.</target>
+        <note>Sie haben keine gültige Client Lizenz, bitte über die Einstellungen kaufen.</note>
+      </trans-unit>
+      <trans-unit id="DETAIL_OPEN_GMAPS">
+        <source>Öffne GMaps</source>
+        <target>Open GMaps</target>
+        <note>Öffne GMaps</note>
+      </trans-unit>
+      <trans-unit id="ENCRYPTION_CANNOT_DELETE">
+        <source>Dieses Passwort kann nicht gelöscht werden, da es als Standard benutzt wird wenn für eine alarmierte Einheit kein anderes Passwort hinterlegt wurde.</source>
+        <target>Cannot delete the default password, which is used for all units that do not have an own password.</target>
+        <note>Cannot delete default password</note>
+      </trans-unit>
+      <trans-unit id="ENCRYPTION_COULD_NOT_FIND_SEPARATOR">
+        <source>Konnte Trenner &lt;|&gt; nicht finden, verwende &quot;(result)&quot; als Schlüssel. Einheit muss manuell eingetragen werden</source>
+        <target>Separator &lt;|&gt; not found, use &quot;%@&quot; as password. Please intert the unit manually</target>
+        <note>No seperator &lt;|&gt; found</note>
+      </trans-unit>
+      <trans-unit id="ERROR">
+        <source>Fehler</source>
+        <target>Error</target>
+        <note>Error
+   Fehler</note>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source><target>Error</target>
+        <note>Error</note>
+      </trans-unit>
+      <trans-unit id="FREE_TEXT_NO_FE1_USER">
+        <source>Sie haben keinen Benutzernamen für FE1 für die Rückmeldung in den Einstellungen hinterlegt.</source>
+        <target>No user name for FE1 feedback found. Please check in the settings.</target>
+        <note>No FE1 user available</note>
+      </trans-unit>
+      <trans-unit id="FREE_TEXT_NO_FE2_USER">
+        <source>Sie haben keine Benutzer ID für FE2 für die Rückmeldung in den Einstellungen hinterlegt.</source>
+        <target>No user id for FE2 feedback found. Please check in the settings.</target>
+        <note>No FE2 user available</note>
+      </trans-unit>
+      <trans-unit id="LICENSE">
+        <source>Lizenz</source>
+        <target>Licence</target>
+        <note>Lizenz</note>
+      </trans-unit>
+      <trans-unit id="MAIN_TAB_ALARMLIST">
+        <source>Alarmliste</source>
+        <target>Alert List</target>
+        <note>Alarm list</note>
+      </trans-unit>
+      <trans-unit id="MAIN_TAB_AVAILABILITY">
+        <source>Verfügbarkeit</source>
+        <target>Availability</target>
+        <note>Availability</note>
+      </trans-unit>
+      <trans-unit id="MAIN_TAB_HELP">
+        <source>Hilfe</source>
+        <target>Help</target>
+        <note>Help</note>
+      </trans-unit>
+      <trans-unit id="MAIN_TAB_OVERVIEW">
+        <source>Übersicht</source>
+        <target>Overview</target>
+        <note>Availability overview</note>
+      </trans-unit>
+      <trans-unit id="MAIN_TAB_SETTINGS">
+        <source>Einstellungen</source>
+        <target>Settings</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="MASTER_ALL_READ">
+        <source>Alle gelesen</source>
+        <target>Mark all as read</target>
+        <note>Alle gelesen</note>
+      </trans-unit>
+      <trans-unit id="MASTER_ALL_READ_CONFIRMATION">
+        <source>Wollen Sie wirklich alle Alarme als gelesen markieren?</source>
+        <target>Do you want to mark all alerts as read?</target>
+        <note>Wollen Sie wirklich alle Alarme als gelesen markieren?</note>
+      </trans-unit>
+      <trans-unit id="MASTER_BUY_LICENSE">
+        <source>Kaufen Sie bitte eine neue aPager Pro Lizenz. Sie können bis dahin keine Pushbenachrichtigungen empfangen, Verfügbarkeiten oder Rückmeldungen abgeben. Die Lizenz kann über die App Einstellungen gekauft werden.</source>
+        <target>Please buy a new aPager Pro license. You cannot receive push notificaitons, send feedback and availability anymore. The license can be purchased in the settings tab.</target>
+        <note>Buy license text.</note>
+      </trans-unit>
+      <trans-unit id="MASTER_DELETE_ALL">
+        <source>Alle Löschen</source>
+        <target>Delete All</target>
+        <note>Alle Löschen</note>
+      </trans-unit>
+      <trans-unit id="MASTER_DELETE_ALL_CONFIRMATION">
+        <source>Wollen Sie wirklich alle Alarme löschen?</source>
+        <target>Do you want to delete all alerts?</target>
+        <note>Wollen Sie wirklich alle Alarme löschen?</note>
+      </trans-unit>
+      <trans-unit id="MASTER_FIRST_STEPS">
+        <source>Erste Schritte</source>
+        <target>First Steps</target>
+        <note>Erste Schritte</note>
+      </trans-unit>
+      <trans-unit id="MASTER_REGISTER_MAIL">
+        <source>Registrieren Sie aPager mit einer gültigen E-Mailadresse um Alarmierungen empfangen zu können.</source>
+        <target>Register aPager with a vailid email address to receive alerts.</target>
+        <note>Registrieren Sie aPager mit einer gültigen E-Mailadresse um Alarmierungen empfangen zu können.</note>
+      </trans-unit>
+      <trans-unit id="NO">
+        <source>Nein</source>
+        <target>No</target>
+        <note>Nein</note>
+      </trans-unit>
+      <trans-unit id="NOTIFICATION_ENCRYPTION_FAILED">
+        <source>Verschlüsselte Nachricht für Einheit &quot;%@&quot; konnte nicht entschlüsselt werden. Bitte überprüfen Sie in den Einstellungen, ob der Schlüssel korrekt ist.</source>
+        <target>Could not decrypt alert for unit &quot;%@&quot;. Please check in the settings whether the password is correct.</target>
+        <note>Encryption for unit x failed</note>
+      </trans-unit>
+      <trans-unit id="NOT_AVAILABLE">
+        <source>Nicht Verfügbar</source>
+        <target>Unavailable</target>
+        <note>Nicht Verfügbar</note>
+      </trans-unit>
+      <trans-unit id="OFF">
+        <source>aus</source>
+        <target>off</target>
+        <note>off</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>ok
+   OK</note>
+      </trans-unit>
+      <trans-unit id="ON">
+        <source>an</source>
+        <target>on</target>
+        <note>an</note>
+      </trans-unit>
+      <trans-unit id="OS_BUY_LICENSE">
+        <source>Bitte aPager Pro Lizenz kaufen</source>
+        <target>Buy an aPager Pro license</target>
+        <note>Bitte aPager Pro Lizenz kaufen</note>
+      </trans-unit>
+      <trans-unit id="OS_CHECK_API_KEY">
+        <source>Bitte API Key überprüfen</source>
+        <target>Please check API Key</target>
+        <note>Bitte API Key überprüfen</note>
+      </trans-unit>
+      <trans-unit id="OS_CHECK_FEEDBACK_NAME">
+        <source>Name für Rückmeldung prüfen</source>
+        <target>Check Feedback Name</target>
+        <note>Name für Rückmeldung prüfen</note>
+      </trans-unit>
+      <trans-unit id="OS_DIFFERENT_STATUS">
+        <source>Status unterschiedlich</source>
+        <target>Different Status</target>
+        <note>Status unterschiedlich</note>
+      </trans-unit>
+      <trans-unit id="OS_ERROR_SENDING">
+        <source>Fehler beim Senden des Status</source>
+        <target>Error while sending status</target>
+        <note>Fehler beim Senden des Status</note>
+      </trans-unit>
+      <trans-unit id="OS_LOADING_STATUS">
+        <source>Lade aktuellen Status...</source>
+        <target>Loading current status...</target>
+        <note>Lade aktuellen Status...</note>
+      </trans-unit>
+      <trans-unit id="OS_NO_API_KEY">
+        <source>Kein API Key gefunden</source>
+        <target>No API Key Found</target>
+        <note>Kein API Key gefunden</note>
+      </trans-unit>
+      <trans-unit id="OS_NO_CONNECTION">
+        <source>Keine Internetverbindung</source>
+        <target>No Internet Connection</target>
+        <note>Keine Internetverbindung</note>
+      </trans-unit>
+      <trans-unit id="OS_NO_SHARED_SECRET">
+        <source>SharedSecret eintragen -&gt; Einstellungen</source>
+        <target>Insert SharedSecret -&gt; Settings</target>
+        <note>SharedSecret eintragen -&gt; Einstellungen</note>
+      </trans-unit>
+      <trans-unit id="OS_NO_USER_ID">
+        <source>Bitte ID eintragen -&gt; Einstellungen</source>
+        <target>Insert User ID -&gt; Settings</target>
+        <note>Bitte ID eintragen -&gt; Einstellungen</note>
+      </trans-unit>
+      <trans-unit id="OS_SENDING_STATUS">
+        <source>Sende neuen Status an Server</source>
+        <target>Send new status to server</target>
+        <note>Sende neuen Status an Server</note>
+      </trans-unit>
+      <trans-unit id="PURCHASE_MAIL_NOT_VERIFIED">
+        <source>E-Mailbestätigung ist noch nicht erfolgt. Bitte klicken Sie auf den Aktivierungslink in der Mail.</source>
+        <target>Email address not yet confirmed. Please follow the activation link in the mail.</target>
+        <note>E-Mailbestätigung ist noch nicht erfolgt. Bitte klicken Sie auf den Aktivierungslink in der Mail.</note>
+      </trans-unit>
+      <trans-unit id="PURCHASE_NO_AUTH_ID">
+        <source>Keine Authentifizierungs ID gefunden, bitte E-Mailadresse neu registrieren.</source>
+        <target>No authentification ID found, please reregister E-Mail address.</target>
+        <note>Keine Authentifizierungs ID gefunden, bitte E-Mailadresse neu registrieren.</note>
+      </trans-unit>
+      <trans-unit id="PURCHASE_NO_MAIL">
+        <source>Bitte E-Mailadresse registrieren.</source>
+        <target>Please register an E-Mail address</target>
+        <note>Bitte E-Mailadresse registrieren.</note>
+      </trans-unit>
+      <trans-unit id="QRREADER_ERROR_CAM_PERMISSION">
+        <source>Bitte iPhone Einstellungen -&gt; aPager Pro -&gt; Kamera überprüfen</source>
+        <target>Please check iPhone settings -&gt; aPager Pro -&gt; camera permission</target>
+        <note>Bitte iPhone Einstellungen -&gt; aPager Pro -&gt; Kamera überprüfen</note>
+      </trans-unit>
+      <trans-unit id="QRREADER_ERROR_NO_CAM_AVAILABLE">
+        <source>QR Codereader auf diesem Gerät nicht verfügbar</source>
+        <target>QR code reader not available on this device</target>
+        <note>QR Codereader auf diesem Gerät nicht verfügbar</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS">
+        <source>Einstellungen</source>
+        <target>Settings</target>
+        <note>Einstellungen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_BROKEN_ID">
+        <source>fehlerhafte ID</source>
+        <target>Incorrect ID</target>
+        <note>fehlerhafte ID</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_BROKEN_LINK">
+        <source>fehlerhafter Link?</source>
+        <target>Incorrect Link?</target>
+        <note>fehlerhafter Link?</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_BROKEN_QR_CODE">
+        <source>falscher QR Code?</source>
+        <target>Incorrect QR Code?</target>
+        <note>falscher QR Code?</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_BUY_LICENSE">
+        <source>bitte Lizenz kaufen</source>
+        <target>Buy a License</target>
+        <note>bitte Lizenz kaufen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_BUY_LICENSE_BUTTON">
+        <source>Lizenz kaufen / verlängern</source>
+        <target>Buy / Extend License</target>
+        <note>Lizenz kaufen / verlängern</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_CANCEL_REGISTRATION">
+        <source>Registrierung aufheben</source>
+        <target>Unregister</target>
+        <note>Registrierung aufheben</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_CHECKING_LICENSE_STATE">
+        <source>Lizenzstatus wird geprüft ...</source>
+        <target>Checking License Status...</target>
+        <note>Lizenzstatus wird geprüft ...</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_CHECK_ID">
+        <source>prüfe ID</source>
+        <target>Check ID</target>
+        <note>prüfe ID</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_CHECK_LICENSE_STATE">
+        <source>Lizenzstatus prüfen</source>
+        <target>Check License Status</target>
+        <note>Lizenzstatus prüfen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_CHECK_STATE">
+        <source>Status prüfen</source>
+        <target>Check Status</target>
+        <note>Status prüfen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_EMAIL_CONFIRMATION">
+        <source>E-Mail bitte bestätigen</source>
+        <target>Please Confirm EMail</target>
+        <note>E-Mail bitte bestätigen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_ERROR_REPORT_HEADING">
+        <source>aPager iOS - Fehlerbericht</source>
+        <target>aPager iOS - Error Report</target>
+        <note>aPager iOS - Fehlerbericht</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_ERROR_REPORT_TEXT">
+        <source>Uhrzeit des Fehlers: 
+
+Fehlerbeschreibung:
+</source>
+        <target>Timestamp of Error: 
+
+Error Description:
+</target>
+        <note>Uhrzeit des Fehlers: \n\nFehlerbeschreibung:\n</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_LICENSE_STATUS">
+        <source>Lizenzstatus</source>
+        <target>License Status</target>
+        <note>Lizenzstatus</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_LICENSE_VALID">
+        <source>gültig</source>
+        <target>Valid</target>
+        <note>gültig</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_LICENSE_VALID_UNTIL">
+        <source>gültig bis %@</source>
+        <target>Valid Until %@</target>
+        <note>gültig bis x</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_LOADING_PURCHASE">
+        <source>Lizenz kaufen / verlängern lädt...</source>
+        <target>Buy / Extend License Loading...</target>
+        <note>Lizenz kaufen / verlängern lädt...</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_NO_EMAIL_CONFIGURED_IN_DEVICE">
+        <source>Für das Senden eines Fehlerberichts muss eine E-Mailaccount auf dem iPhone eingerichtet sein.</source>
+        <target>You must configure a mail account on the iPhone to send an error report.</target>
+        <note>Für das Senden eines Fehlerberichts muss eine E-Mailaccount auf dem iPhone eingerichtet sein.</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_NO_ID">
+        <source>keine ID eingetragen</source>
+        <target>No ID Registered</target>
+        <note>keine ID eingetragen</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_NO_NETWORK">
+        <source>kein Netzwerk?</source>
+        <target>No Network?</target>
+        <note>kein Netzwerk?</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_PLEASE_REGISTER">
+        <source>bitte registrieren</source>
+        <target>Please Register</target>
+        <note>bitte registrieren</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_REGISTER_NOW">
+        <source>Jetzt registrieren</source>
+        <target>Register Now</target>
+        <note>Jetzt registrieren</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_SOUNDS_NOT_ACTIVATED_TEXT">
+        <source>Bitte überprüfen Sie ob aPagerPro zu Pushmitteilungen berechtigt ist. In den iPhone Einstellungen -&gt; Mitteilungen -&gt; aPagerPro -&gt; Töne muss aktiviert sein.</source>
+        <target>Please check whether aPagerPro is allowed to receive push notifications. Activate in den iPhone settings -&gt; Notifications -&gt; aPagerPro -&gt; Allow notifications.</target>
+        <note>Bitte überprüfen Sie ob aPagerPro zu Pushmitteilungen berechtigt ist. In den iPhone Einstellungen -&gt; Mitteilungen -&gt; aPagerPro -&gt; Töne muss aktiviert sein.</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_UNREGISTER">
+        <source>Deregistrierung</source>
+        <target>Unregister</target>
+        <note>Deregistrierung</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS_UNREGISTER_TEXT">
+        <source>Wollen sie keine Alarme mehr empfangen?</source>
+        <target>Do you want to receive no further alerts?</target>
+        <note>Wollen sie keine Alarme mehr empfangen?</note>
+      </trans-unit>
+      <trans-unit id="STATUS">
+        <source>Status</source>
+        <target>Status</target>
+        <note>Status</note>
+      </trans-unit>
+      <trans-unit id="TEMP_AVAILABLE">
+        <source>Bedingt Verfügbar</source>
+        <target>Partly Available</target>
+        <note>Bedingt Verfügbar</note>
+      </trans-unit>
+      <trans-unit id="UNKNOWN">
+        <source>Unbekannt</source>
+        <target>Unknown</target>
+        <note>Unbekannt</note>
+      </trans-unit>
+      <trans-unit id="USER_ID_IMPORT_ERROR_TEXT">
+        <source>Fehler beim Import der Benutzer ID. Fehlerhafter Link?</source>
+        <target>Error during importing user ID. Broken link?</target>
+        <note>Fehler beim Import der Benutzer ID. Fehlerhafter Link?</note>
+      </trans-unit>
+      <trans-unit id="USER_ID_IMPORT_HEADING">
+        <source>UserId Import</source>
+        <target>UserId Import</target>
+        <note>User ID import</note>
+      </trans-unit>
+      <trans-unit id="USER_ID_IMPORT_NO_NETWORK">
+        <source>Kein Netzwerk. ID gespeichert, konnte jedoch nicht verifiziert werden</source>
+        <target>No Network. ID imported but could not be verified</target>
+        <note>Kein Netzwerk. ID gespeichert, konnte jedoch nicht verifiziert werden</note>
+      </trans-unit>
+      <trans-unit id="USER_ID_IMPORT_SUCCESS">
+        <source>ID importiert und erfolgreich verifiziert</source>
+        <target>ID imported successfully and verified</target>
+        <note>ID importiert und erfolgreich verifiziert</note>
+      </trans-unit>
+      <trans-unit id="USER_ID_IMPORT_WRONG_ID">
+        <source>ID Verifizierung fehlgeschlagen. Fehlerhafte ID?</source>
+        <target>ID verification failed. Broken ID?</target>
+        <note>ID Verifizierung fehlgeschlagen. Fehlerhafte ID?</note>
+      </trans-unit>
+      <trans-unit id="YES">
+        <source>Ja</source>
+        <target>Yes</target>
+        <note>Ja</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file datatype="plaintext" original="aPagerNGTests/Info.plist" source-language="de" target-language="en">
+    <header>
+      <tool build-num="7D1014" tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
