@@ -21,7 +21,7 @@
     <body>
       <trans-unit id="1Iw-bq-K3I.text">
         <source>Rückmeldefunktion</source>
-        <target>Feedback function</target>
+        <target>Feedback Function</target>
         <note>Class = "UILabel"; text = "Rückmeldefunktion"; ObjectID = "1Iw-bq-K3I";</note>
       </trans-unit>
       <trans-unit id="1th-VV-LQd.headerTitle">
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="1tw-3W-VUg.title">
         <source>Alarmliste</source>
-        <target>Alarm list</target>
+        <target>Alert list</target>
         <note>Class = "UITabBarItem"; title = "Alarmliste"; ObjectID = "1tw-3W-VUg";</note>
       </trans-unit>
       <trans-unit id="4OC-nj-qg6.text">
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="6Ze-8k-ynf.text">
         <source>Push Alarmierung</source>
-        <target>Push alarm</target>
+        <target>Push Alert</target>
         <note>Class = "UILabel"; text = "Push Alarmierung"; ObjectID = "6Ze-8k-ynf";</note>
       </trans-unit>
       <trans-unit id="6Zw-5y-7k7.text">
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="MAIN_TAB_ALARMLIST">
         <source>Alarmliste</source>
-        <target>Alarm List</target>
+        <target>Alert List</target>
         <note>Alarm list</note>
       </trans-unit>
       <trans-unit id="MAIN_TAB_AVAILABILITY">
@@ -922,7 +922,7 @@
       </trans-unit>
       <trans-unit id="MASTER_ALL_READ_CONFIRMATION">
         <source>Wollen Sie wirklich alle Alarme als gelesen markieren?</source>
-        <target>Do you want to mark all alarms as read?</target>
+        <target>Do you want to mark all alerts as read?</target>
         <note>Wollen Sie wirklich alle Alarme als gelesen markieren?</note>
       </trans-unit>
       <trans-unit id="MASTER_BUY_LICENSE">
@@ -1194,7 +1194,7 @@ Error Description:
       </trans-unit>
       <trans-unit id="SETTINGS_UNREGISTER_TEXT">
         <source>Wollen sie keine Alarme mehr empfangen?</source>
-        <target>Do you want to receive no further alarms?</target>
+        <target>Do you want to receive no further alerts?</target>
         <note>Wollen sie keine Alarme mehr empfangen?</note>
       </trans-unit>
       <trans-unit id="STATUS">
